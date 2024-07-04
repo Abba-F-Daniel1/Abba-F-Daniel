@@ -1,7 +1,5 @@
 ![MasterHead](my-masterhead-banner.png)
 
-<h1 align="center">Abba Daniel Github Profile</h1>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+Software+Engineer;React%2FReact-Native+Developer;AI+Enthusiast;Obsessed+Techcie;Ready+to+Collab%3F+Hit+me+up" alt="Typing SVG" /></a>
