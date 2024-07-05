@@ -12,7 +12,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/yx7ei1)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@abba.fred.daniel)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abba_f_daniel)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/%40FrederickAbba)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/FrederickAbba)
 
 <hr>
 
